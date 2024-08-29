@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Landing Page
 
-## Getting Started
+## 🚀 Live Demo
+Check out the live demo of the AI landing page here.
 
-First, run the development server:
+## 📖 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is a stunning AI landing page built with Next.js, Tailwind CSS, and Framer Motion. The landing page is designed to be sleek, responsive, and engaging, featuring dynamic animations and modern design elements.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js: For server-side rendering and building a React-based web application.
+- Tailwind CSS: For fast and flexible styling using utility-first CSS classes.
+- Framer Motion: For smooth and interactive animations.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ✨ Key Features
+Responsive Design: Works seamlessly across all devices.
+Smooth Animations: Built with Framer Motion for eye-catching effects.
+Modern Aesthetics: Clean and minimalist design using Tailwind CSS.
 
-## Learn More
+## 📸 Screenshots
+![ai-landingpage](https://github.com/user-attachments/assets/457743b1-adde-45be-af6e-524a1dd17b65)
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Installation & Setup
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/MukeshKr55/AI-theme-landing-page.git
+    cd AI-theme-landing-page
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Start the development server:
+    ```sh
+    npm run dev
+    ```
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. Open your browser and navigate to http://localhost:3000 to view the landing page.
