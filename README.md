@@ -1,7 +1,7 @@
 # AI Landing Page
 
 ## 🚀 Live Demo
-Check out the live demo of the AI landing page here.
+Check out the live demo of the AI landing page [here](https://ai-theme-landing-page-1tmx2jeuu-mukeshkr55s-projects.vercel.app/).
 
 ## 📖 Overview
 
